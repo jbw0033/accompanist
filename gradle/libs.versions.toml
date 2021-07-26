@@ -5,8 +5,8 @@ composesnapshot = "7594858" # a single character = no snapshot
 navigation-animation = "2.4.0-SNAPSHOT"
 
 # gradlePlugin and lint need to be updated together
-gradlePlugin = "7.0.0-beta05"
-lint = "30.0.0-beta05"
+gradlePlugin = "7.0.0-rc01"
+lint = "30.0.0-rc01"
 
 ktlint = "0.41.0"
 kotlin = "1.5.21"
